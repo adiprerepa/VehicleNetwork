@@ -1,6 +1,7 @@
 com/prerepa/car_rpc/factory/CommandFactory$1.class
 com/car_rpc/generated/VectorOrBuilder.class
 com/prerepa/car_rpc/shared/ConnectionEntity.class
+com/prerepa/car_rpc/api/VehicleNetwork.class
 com/car_rpc/generated/CarEntityOrBuilder.class
 com/car_rpc/generated/Esp8266DiscoveryRequest.class
 com/car_rpc/generated/ControlAcknowledge$Builder.class
@@ -16,7 +17,6 @@ com/car_rpc/generated/ControlResponse$1.class
 com/car_rpc/generated/CarEntity$1.class
 com/prerepa/car_rpc/database/base_entities/EntityIdentifier.class
 com/car_rpc/generated/ServerAcknowledgeResponse$Builder.class
-com/prerepa/car_rpc/api/CarApi.class
 com/car_rpc/generated/ControlAcknowledgeResponseOrBuilder.class
 com/car_rpc/generated/Esp8266DiscoveryResponse$AcknowledgeStatus$1.class
 com/car_rpc/generated/ServerAcknowledgeResponseOrBuilder.class

@@ -2,17 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60daeee5-dfb4-4126-b8d8-f33e75fe2d61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Esp8266/.Esp8266.ino.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Esp8266/.aWebServer.ino.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Esp8266/aWebServer.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RpcApp/app/src/main/java/com/car_rpc/app/root/RootActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RpcApp/app/src/main/java/com/car_rpc/app/root/ServerActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Esp8266/Esp8266.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../Esp8266/Esp8266.ino" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RpcApp/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RpcApp/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RpcApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RpcApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.README.md.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prerepa/car_rpc/api/CarApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prerepa/car_rpc/api/VehicleNetwork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/prerepa/car_rpc/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prerepa/car_rpc/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Car-Rpc-Api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Car-Rpc-Api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Car-Rpc-Api.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/prerepa/car_rpc/api/CarApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.controller.ControlInteractorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.controller.ControlInteractorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.factory.CommandFactoryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.factory.CommandFactoryTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.factory.ConnectionEntityBuilderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.factory.ConnectionEntityBuilderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.service.AcknowledgeServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.service.AcknowledgeServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.service.ControlServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.service.ControlServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.shared.ValueStoreTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.prerepa.car_rpc.shared.ValueStoreTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.controller.ControlInteractorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.controller.ControlInteractorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.factory.CommandFactoryTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.factory.CommandFactoryTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.factory.ConnectionEntityBuilderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.factory.ConnectionEntityBuilderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.service.AcknowledgeServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.service.AcknowledgeServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.service.ControlServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.service.ControlServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.shared.ValueStoreTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.prerepa.car_rpc.shared.ValueStoreTest.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +41,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QkZBDkLamlfuwrqPRUppaUL5BC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -47,6 +59,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,6 +125,7 @@
       <workItem from="1568316420250" duration="11535000" />
       <workItem from="1570935241419" duration="3527000" />
       <workItem from="1571444721192" duration="723000" />
+      <workItem from="1571445788048" duration="906000" />
     </task>
     <servers />
   </component>
