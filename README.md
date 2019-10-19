@@ -64,6 +64,8 @@ class Main {
       Path databaseCredentials = Path.of("PATH HERE");
       vehicleNetwork.start(databaseCredentialsPath, 525);
       vehicleNetwork.blockUntilShutdown();
+  }
+}
 ```
 #### Prerequisites - Server Setup 
  - An Internet Connection (Setup - git&maven)
